@@ -1,0 +1,4 @@
+A demo scene is an animation that is computed in real-time and usually does not require input from the user.
+Typically, these are done in competitions where there is a limit on either the number of lines used, or a limit in the number of bits for the file.
+However, this project does not have any limit. Our project is around kb, and over lines.
+QWERTYUIOPLKJHGFDSAZXCVBNMqwertyuioplkjhgfdsazxcvbnm

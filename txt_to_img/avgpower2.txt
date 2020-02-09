@@ -1,0 +1,31 @@
+Goal: 
+Find set of number for any number using only powers of 2 to average into goal number
+To do less work, any power of 2 is itself
+Any number where its prime factorization is solved and a power of 2 is just the solve terms multiplied by that factor, Ex: 6, 10, 12, 14
+2**n + 1 is easy as wellzzzzz
+
+1 : 1
+2 : 2
+3 : 2, 4
+4: 4
+5: 2, 8
+6: 4, 8
+7: 1, 4, 16
+8: 8
+9: 2, 16
+10: 4, 16
+11: 1, 16, 16
+13: 2, 2, 16, 32
+15: 4, 8, 16, 32
+16: 16
+17: 2, 32
+19: 2, 2, 8, 64
+21: 2, 2, 16, 64
+23: 4, 8, 16, 64
+25: 2, 2, 32, 64
+27: 4, 8, 32, 64
+29: 4, 16, 32, 64
+31: 1, 2, 8, 16, 128
+32: 32
+33: 2, 64
+35: 2, 2, 8, 128
